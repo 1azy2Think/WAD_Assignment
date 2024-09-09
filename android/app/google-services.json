@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221341209847",
+    "project_id": "tastier-67ddf",
+    "storage_bucket": "tastier-67ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221341209847:android:a195767637585aa3dceff2",
+        "android_client_info": {
+          "package_name": "com.wad_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHAqTw96QLmzvuSiuzl3CE4fiBawG_1oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
